@@ -34,7 +34,7 @@ Projects when i was learning basics of webdev.
 
 ## Projects i contributed to or pet projects
 
-- [Simplified Zig Compiler](https://github.com/Vacko32/wordle-fit-version) implemented lexical analysis and expression parser
+- [Simplified Zig Compiler](https://github.com/Siigull/IFJ-projekt) implemented lexical analysis and expression parser
 
 - [Titanic kaggle](https://github.com/Vacko32/TitanicKaggleSubmission)
   data preproccesing and using GradientBoostingClassifier from sklearn to reach 78% classification success rate.
