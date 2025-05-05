@@ -2,7 +2,6 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="image.jpg" alt="image" width="200"/>
-  <img src="image2.jpg" alt="image" width="200"/>
 </div>
 
 Hi, my name is Martin and I am passionate comptuter science student. The areas i am interested in are: Software engineering, Data Analytics/Engineering, AI/ML.
