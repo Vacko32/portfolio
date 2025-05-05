@@ -49,16 +49,16 @@ Projects when i was learning basics of webdev.
 - [GUI calculator](https://github.com/DaveV6/IVS-Projekt2)
   Creating a whole application from start to finish. With installation, mockup, requirements etc. I was a team leader back then and it helped me understand how communication is important when building something together. (Python)
 
-## Small ai pet projects
+## AI and pet projects
+
+- [Depression detection in speech with daic-woz dataset](https://youtu.be/E5J7BPy8VA4)
+  This is just the demo, paper will be added around 9th May. Achieved 78% on DAIC-WOZ dataset.(Python, pytorch)
 
 - [Titanic kaggle](https://github.com/Vacko32/TitanicKaggleSubmission)
   data preproccesing and using GradientBoostingClassifier from sklearn to reach 78% classification success rate. (Python)
 
 - [AI snake qlearning](https://github.com/Vacko32/aisnake)
   a pygame app, to play snake. Tried to use qlearning to understand the algorithm and its boundraies for playing snake. The AI was not able to beat the game due to the limitations of the algorithm.(Python)
-
-- [Depression detection in speech with daic-woz dataset](https://youtu.be/E5J7BPy8VA4)
-  This is just the demo, paper will be added around 9th May. (Python, pytorch)
 
 ## Currently working on
 
